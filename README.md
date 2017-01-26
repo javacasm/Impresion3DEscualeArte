@@ -22,9 +22,11 @@ Una búsqueda rápida por internet nos muestra lo que están haciendo los diseñ
 
 ![Ropa interactiva](https://i.materialise.com/blog/wp-content/uploads/2016/08/fashion-3d-print.jpg)
 
-### Complementos
+### Complementos/Accesorios
 
 ![Complementos](http://additive-3d.es/registro/Moda-Complementos/Bracelet_Voronoi_impression_3D.jpg)
+
+![Accesorios](./images/pendientes.png)
 
 ### Calzado
 
