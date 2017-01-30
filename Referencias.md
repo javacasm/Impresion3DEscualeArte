@@ -12,3 +12,5 @@
 [3dprinting Industry (fashion)](https://3dprintingindustry.com/fashion/page/2/)
 
 [Wearable class](http://www.instructables.com/class/Wearable-Electronics-Class/)
+
+[Complementos](http://beetleblocks.com/users/MrsPollard/projects/spirals%203d%20plus)
