@@ -51,6 +51,11 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * s escala (x,y,z para solo hacerlo en ese eje)
 * r rota
 * g mueve
+* w fusiona (merge) los seleccionados
+* e Extrusión
+* Sifht+c Centra la imagen
+* ¿.?
+
 
 ## La escena
 
@@ -79,6 +84,16 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * Arriba a la derecha está el árbol de la escena
   * Podemos mostrar o no cada componentes
   * Se muestran las dependencias
+
+## Edición (Cambiamos con TAB)
+
+Con un objeto seleccionado
+Podemos modificar sus vértices, aristas o caras
+Pulsamos sobre el selector de qué queremos mover
+Click derecho sobre el componente que queremos mover y sin soltar movemos
+Click izquierdo para parar el movimiento (r,s y g para elegir la transformación)
+W para fusionar los seleccionados
+E para extruir
 
 
 ## Documentación
