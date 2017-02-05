@@ -29,9 +29,12 @@ Mejor con ratón y teclado numérico
 
 (View abajo a la derecha muestra las teclas)
 
-Botón de scroll: gira
-Scroll: zoom
-Botón derecho: mueve lo que se ha señalado
+* Click izquierdo marca el punto origen de las rotaciones y movmientos
+* Scroll: zoom
+* Botón de scroll pulsado: gira
+* Botón derecho: click selecciona (Shift para seleccionar más de uno)
+* Deseleccionar click derecho fuera del objeto
+* Boton derecho pulsado: mueve lo que se ha marcado
 
 Son movimientos en 3D pero desde 2D....
 
@@ -40,6 +43,14 @@ Si pulsamos sobre los vectores de los ejes nos movemos por ellos
 Ctrl-Z deshace el útimo cámbio
 
 Borrar un objeto/trazos (desde Modo Objeto/Trazo)
+
+### Teclas
+
+* a Selecciona/deselecciona TODO
+* TAB cambia de modo (edición, objeto,...)
+* s escala (x,y,z para solo hacerlo en ese eje)
+* r rota
+* g mueve
 
 ## La escena
 
@@ -60,8 +71,8 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
     * Animaciones, Física, Grease Pensil
 
 * Modo de manipulación:
-  * Object Model
-  * Edit mode
+  * Object Model: mueve objetos
+  * Edit mode: mueve puntos, vértices, etc...
   * Edit Strokes/trazos
   * Sculpt mode
 
