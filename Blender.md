@@ -70,7 +70,7 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * 1,3,7 selecciona vista derecha,delante,arriba (con ctrl el inverso)
 * 7,8,9 orbita (ctrl el inverso)
 * Ctrl+q  Vista cuadruple
-
+* Ctrl+r divide la selección en varios
 
 ## Vistas
 
@@ -118,8 +118,8 @@ E para extruir
 
 [Tutoriales](https://www.blender.org/support/tutorials/)
 
-
-
+[cgcookie](https://cgcookie.com/learn-blender/)
+[blenderguru](http://www.blenderguru.com/)
 
 El mejor Joaquín Herrera Goás, conocido en los mundos del diseño con
 programas libres como Joaclint Istgud
