@@ -1,21 +1,13 @@
 # Diseño
 
+Existen herramientas open-source
+
 ## Blender
 
 Mejor si se usa con ratón y teclado numérico
 
-https://www.instructables.com/id/Beginners-Guide-to-Blender/
-
-[Tutoriales](https://www.blender.org/support/tutorials/)
-
 [Descarga](https://www.blender.org/download/)
 
-
-El mejor Joaquín Herrera Goás, conocido en los mundos del diseño con
-programas libres como Joaclint Istgud
-
-https://joaclintistgud.wordpress.com
-https://joaclintistgud.wordpress.com/2009/11/27/blender-guia-de-iniciacion-para-recien-llegados-adaptada-a-la-version-2-5/
 
 
 ### Videos:
