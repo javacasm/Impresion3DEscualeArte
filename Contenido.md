@@ -1,4 +1,17 @@
+# Contenido
+
+
+
 Evidentemente yo no vengo aquí a hablaros de moda, porque para eso ya tenéis a excelentes profesores
+
+
+## Ejemplos de cómo la impresión 3D se está integrando en el mundo de la moda
+
+* Diseño
+* Materiales
+* Fabricación
+* Personalización
+* Interacción
 
 
 [Conferencia TED sobre la impresión 3D en la moda](http://imprimalia3d.com/noticias/2016/01/17/005659/conferencia-ted-danit-peleg-sobre-moda-impresa-3d)
