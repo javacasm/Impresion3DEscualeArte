@@ -23,6 +23,17 @@ Para cambiar el idioma:
 Cuidado, porque los Tutoriales no se corresponderán
 
 
+## La escena
+
+* Iluminación
+* Cámara
+* Elementos
+
+El cursor 3D
+
+"Render" muestra la imagen desde la cámara. ESC para salir
+
+
 ## Movimientos de cursor
 
 Mejor con ratón y teclado numérico
@@ -31,7 +42,7 @@ Mejor con ratón y teclado numérico
 
 * Click izquierdo marca el punto origen de las rotaciones y movmientos
 * Scroll: zoom
-* Botón de scroll pulsado: gira
+* Botón de scroll pulsado: gira (orbitar)
 * Botón derecho: click selecciona (Shift para seleccionar más de uno)
 * Deseleccionar click derecho fuera del objeto
 * Boton derecho pulsado: mueve lo que se ha marcado
@@ -53,21 +64,23 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * g mueve
 * w fusiona (merge) los seleccionados
 * e Extrusión
-* Sifht+c Centra la imagen
+* Sifht+c Centra la imagen en el cursor 3D
 * ¿.?
+* 5 cambia perspectiva/ortogonal
+* 1,3,7 selecciona vista derecha,delante,arriba (con ctrl el inverso)
+* 7,8,9 orbita (ctrl el inverso)
+* Ctrl+q  Vista cuadruple
 
-
-## La escena
-
-* Iluminación
-* Cámara
-* Elementos
-
-"Render" muestra la imagen desde la cámara. ESC para salir
 
 ## Vistas
 
-* Podemos añadir una nueva vista pulsando en en la esquina superior derecha
+* Para añadir una nueva vista pulsando en el triangulito de la esquina superior derecha
+![triangulito](https://i.stack.imgur.com/avSSx.png)
+* Podemos seleccionar distintos tipos de vistas: 3D, editores, preferencias, selección de archivos, árbol, línea del tiempo, editor de vídeo, ....
+* Para cerrar una vista click en el triangulito y lo arrastramos sobre la que queremos quitar
+
+
+### Vista 3D
 * Vemos propiedades pulsado en pequeño +
 * Pestañas:
     * Tool/Herramientas: transformaciones
@@ -84,6 +97,8 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * Arriba a la derecha está el árbol de la escena
   * Podemos mostrar o no cada componentes
   * Se muestran las dependencias
+
+Ctrl+q  Vista cuadruple
 
 ## Edición (Cambiamos con TAB)
 
