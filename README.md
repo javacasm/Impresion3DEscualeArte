@@ -1,8 +1,14 @@
-# Curso de Impresión 3D
+# Semana del diseño
+## Febrero  2017
 
-## Escuela Arte Granada
-### Febrero de 2017
+### José Antonio Vacas @javacasm
+![CCbySA](images/CCbySQ_88x31.png)
 
+
+##[http:github.com/javacasm/Impresion3DEscuelaArte](github.com/javacasm/Impresion3DEscuelaArte)
+
+
+* * *
 La impresión 3D no es una **moda** pasajera, al contrario, muchos hablan de ella como la nueva revolución industrial, aquella que va a permitir deslocalizar y personalizar totalmente la producción.
 
 Hoy en día no se concibe un taller de diseño de cualquier tipo de productos sin la capacidad de realizar sus propios prototipos.
