@@ -1,7 +1,6 @@
 # Contenido
 
 
-
 Evidentemente yo no vengo aquí a hablaros de moda, porque para eso ya tenéis a excelentes profesores
 
 
@@ -16,8 +15,15 @@ Evidentemente yo no vengo aquí a hablaros de moda, porque para eso ya tenéis a
 
 [Conferencia TED sobre la impresión 3D en la moda](http://imprimalia3d.com/noticias/2016/01/17/005659/conferencia-ted-danit-peleg-sobre-moda-impresa-3d)
 
-https://www.youtube.com/watch?v=w1oKe8OaPbk
+[Vídeo](https://www.youtube.com/watch?v=w1oKe8OaPbk)
 
+[La colección](http://danitpeleg.com/)
+
+[Proceso de creación](http://danitpeleg.com/3d-printing-fashion-process/)
+
+[Materiales](http://www.thingiverse.com/thing:289650)
+
+![material](http://thingiverse-production-new.s3.amazonaws.com/renders/72/31/14/37/25/IMG_1945_preview_featured.jpg)
 
 El futuro http://doodle3d.com/
 
@@ -55,4 +61,4 @@ Pero esto costará una pasta ....
 
 ![3d casero](http://imprimalia3d.com/sites/default/files/imagenes/danit23-1024x549.jpeg)
 
-Estaría más interesada en regalar o vender los archivos que usó para su fabricación. "Quiero ver a otras personas usando esta ropa en diferentes lugares del mundo", afirma. Como un modelo de negocio, esto podría ser más indicativo de cómo se comprarán y venderán en el futuro los diseños.
+  Estaría más interesada en regalar o vender los archivos que usó para su fabricación. "Quiero ver a otras personas usando esta ropa en diferentes lugares del mundo", afirma. Como un modelo de negocio, esto podría ser más indicativo de cómo se comprarán y venderán en el futuro los diseños.
