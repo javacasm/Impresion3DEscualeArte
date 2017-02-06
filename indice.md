@@ -10,7 +10,7 @@
 ## [¿Qué es?](./QueEs3D.md)
 ## [¿Para qué sirve?](./ParaQueSirve3D.md)
 ## [Aplicaciones](./Aplicaciones.md)
-## [Historia](./Historia.md.md)
+## [Historia](./Historia.md)
 ## [¿Dónde encontrar diseños?](./Repositorios.md)
 ## [OpenSource](./OpenSource.md)
 ## [Anatomía de una impresora](./impresora3D.md)
@@ -35,10 +35,11 @@
 
 # [Diseño 3D](./diseño.md)
 
-## [Blender](./Blender.md)
-### [Herramientas comerciales](./HerramientasComerciales.md)
+
+### Herramientas comerciales
 #### [ThinkerCad](./ThinkerCad.md)
 #### [SketchUp](./SketchUp.md)
-### [Herramientas OpenSource](./HerramientasOpenSource.md)
+### Herramientas OpenSource
 #### [BlockScad](./BlockScad.md)
 #### [Freecad](./Freecad.md)
+#### [Blender](./Blender.md)
