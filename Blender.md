@@ -138,6 +138,11 @@ Cuando se añade un objeto tenemos opciones (número de segmentos, etc...)
 
 Se añade donde esté el cursor 3D
 
+
+## Materiales, illuminación y renderizado
+
+[Ejemplo anillo](https://youtu.be/zqhi8q4EGZk?t=9m17s)
+
 ## Documentación
 
 
