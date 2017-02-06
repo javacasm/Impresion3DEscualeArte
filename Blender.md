@@ -79,7 +79,7 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * Alt+M Fusionar (Merge)
 * F3 guarda la imagen del render
 * N abre las propiedades
-
+* Alt+Boton derecho ...
 
 
 ## Vistas
