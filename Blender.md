@@ -88,6 +88,8 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 ![triangulito](https://i.stack.imgur.com/avSSx.png)
 * Podemos seleccionar distintos tipos de vistas: 3D, editores, preferencias, selección de archivos, árbol, línea del tiempo, editor de vídeo, ....
 * Para cerrar una vista click en el triangulito y lo arrastramos sobre la que queremos quitar
+* Para establecer las unidades Escena-unidades-métricas
+
 
 
 ### Vista 3D
