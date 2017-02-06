@@ -51,7 +51,7 @@ Son movimientos en 3D pero desde 2D....
 
 Si pulsamos sobre los vectores de los ejes nos movemos por ellos
 
-Ctrl-Z deshace el útimo cámbio
+Ctrl-Z deshace el útimo cambio y Ctrl-Shift-Z lo rehace
 
 Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 
@@ -136,6 +136,7 @@ Materiales
 
 Cuando se añade un objeto tenemos opciones (número de segmentos, etc...)
 
+Se añade donde esté el cursor 3D
 
 ## Documentación
 
