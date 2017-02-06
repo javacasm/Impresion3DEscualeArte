@@ -9,9 +9,9 @@ La última versión es la 2.78a
 ## Antes de abrirlo:.... Tranquilidad...
 
 Tienes 3 "programas"
-* Blender Render
-* Blender game
-* Cycles render
+* Blender Render (Interno)
+* Blender game (Juego)
+* Cycles render (Cycles)
 
 
 Para cambiar el idioma:
@@ -45,7 +45,7 @@ Mejor con ratón y teclado numérico
 * Botón de scroll pulsado: gira (orbitar)
 * Botón derecho: click selecciona (Shift para seleccionar más de uno)
 * Deseleccionar click derecho fuera del objeto
-* Boton derecho pulsado: mueve lo que se ha marcado
+* Boton derecho pulsado: mueve lo que se ha marcado. Para confirmar el movimiento click izquierdo para perder cambio click botón derecho
 
 Son movimientos en 3D pero desde 2D....
 
@@ -59,8 +59,8 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 
 * a Selecciona/deselecciona TODO
 * TAB cambia de modo (edición, objeto,...)
-* s escala (x,y,z para solo hacerlo en ese eje)
-* r rota
+* s escala (x,y,z para solo hacerlo en ese eje) Seguido de un número escala esas veces
+* r rota Seguido de un número rota esos grados
 * g mueve
 * w fusiona (merge) los seleccionados
 * e Extrusión
@@ -70,7 +70,17 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 * 1,3,7 selecciona vista derecha,delante,arriba (con ctrl el inverso)
 * 7,8,9 orbita (ctrl el inverso)
 * Ctrl+q  Vista cuadruple
-* Ctrl+r divide la selección en varios
+* Ctrl+r divide la selección en varios. Mientras está morado podemos añadir más con la rueda del ratón.
+* B selecciona varios con forma de cuadrado. Cuando seleccionamos depende del modo de vista (refilla, solido, ...)
+* C selecciona varios con forma de círculo
+* Alt+C convierte entre tipos (malla, ...)
+* Ctrl+j Une objetos
+* F crea una cara con las aristas seleccionadas
+* Alt+M Fusionar (Merge)
+* F3 guarda la imagen del render
+* N abre las propiedades
+
+
 
 ## Vistas
 
@@ -100,6 +110,10 @@ Borrar un objeto/trazos (desde Modo Objeto/Trazo)
 
 Ctrl+q  Vista cuadruple
 
+Podemos ver los objetos en diferentes formas: texturas, alambre, formas,...
+
+Seleccionamos distintas vistas con las teclas numéricas (derecha, arriba, giros, etc...) También en el menú Vista
+
 ## Edición (Cambiamos con TAB)
 
 Con un objeto seleccionado
@@ -109,6 +123,18 @@ Click derecho sobre el componente que queremos mover y sin soltar movemos
 Click izquierdo para parar el movimiento (r,s y g para elegir la transformación)
 W para fusionar los seleccionados
 E para extruir
+
+Ctrl+j Une objetos
+
+Modificadores, permiten suavizar (llave inglesa), solidificar (añade grosor)
+
+Materiales
+
+
+
+## Add Object
+
+Cuando se añade un objeto tenemos opciones (número de segmentos, etc...)
 
 
 ## Documentación
