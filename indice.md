@@ -4,6 +4,8 @@
 ### José Antonio Vacas @javacasm
 ![CCbySA](images/CCbySQ_88x31.png)
 
+##[http:github.com/javacasm/Impresion3DEscuelaArte](github.com/javacasm/Impresion3DEscuelaArte)
+
 * *  *
 
 # Diseño e impresión en 3D
