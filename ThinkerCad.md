@@ -1,12 +1,11 @@
-# Iniciación al Diseño e impresión 3D
-
-## Julio  2016
+# Semana del diseño
+## Febrero  2017
 
 ### José Antonio Vacas @javacasm
-
 ![CCbySA](images/CCbySQ_88x31.png)
 
 * *  *
+
 
 # [ThinkerCad](https://www.tinkercad.com/)
 
