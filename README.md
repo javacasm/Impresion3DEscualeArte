@@ -42,7 +42,7 @@ Una búsqueda rápida por internet nos muestra lo que están haciendo los diseñ
 
 ![calzado deportivo](https://3dprintingindustry.com/wp-content/uploads/2016/05/MTM4NzMzNzI0MjQ1MTczNjcx-2-320x202.jpg)
 
-# Curso de impresión 3D
+# [Diseño e impresión 3D](./indice.md)
 
 En este curso vamos a aprender a manejar impresoras 3d, a imprimir nuestros propios diseños
 
