@@ -1,3 +1,12 @@
+# Semana del diseño
+## Febrero  2017
+
+### José Antonio Vacas @javacasm
+![CCbySA](images/CCbySQ_88x31.png)
+
+* *  *
+
+
 # Blender
 
 La última versión es la 2.78a
@@ -134,11 +143,26 @@ Materiales
 
 
 
+
 ## Add Object
 
 Cuando se añade un objeto tenemos opciones (número de segmentos, etc...)
 
 Se añade donde esté el cursor 3D
+
+
+## Ejemplo anillo
+
+
+## Ejemplo zapatilla
+
+
+## Usar imágenes de fondo como gu
+
+Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las imágenes para una vista determinada
+
+![shoe](./images/shoe2.png)
+![shoeTop](./images/shoeTop2.png)
 
 
 ## Materiales, illuminación y renderizado
