@@ -8,9 +8,15 @@
 
 # Diseño
 
-Existen herramientas open-source
 
-## Blender
+## Para empezar ... [Thinkercad](http://Thinkercad.com) (http://Thinkercad.com)
+
+
+
+Existen herramientas [open-source](./opensource.md) ...
+
+
+## [Blender](./Blender.md)
 
 Mejor si se usa con ratón y teclado numérico
 
@@ -18,34 +24,15 @@ Mejor si se usa con ratón y teclado numérico
 
 
 
-### Videos:
 
-[Creando a partir de fotos una cabeza](https://www.youtube.com/watch?v=HODBe1adzUQ)
+## [Freecad](./Freecad.md)
 
-[Diseñando una cabeza](https://www.youtube.com/watch?v=pQVfissJSe4)
-
-[Diseñando una camiseta](https://www.youtube.com/watch?v=Ih2EakutydA)
-
-[Diseñando ropa](https://www.youtube.com/results?search_query=blender+design+clothes)
-
-[Diseñando un zapato](https://www.youtube.com/watch?v=aV6AoxOkX8w)
-
-[Diseñando a Angelina Jolie](https://www.youtube.com/watch?v=Vu6jdSaSVyo)
-
-## Freecad
-
-Tutoriales de obijuan
+Tutoriales de obijuan: [Temporada 1](https://www.youtube.com/playlist?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf) [Temporada 2](https://www.youtube.com/playlist?list=PLmnz0JqIMEzUqEM-nxqhZoDaqszVXijOb)
 
 
-Ejemplo de cómo convertir una imagen en 3D
-https://www.youtube.com/watch?v=1CKcwsvK_Zc&t=42s
+[Ejemplo de cómo convertir una imagen en 3D](https://www.youtube.com/watch?v=1CKcwsvK_Zc&t=42s)
 
-Ejemplo de convertir un diseño svr en 3D
 
-Pasar de boceto a 3D  
-
-## Para empezar ... Thinkercad
-http://Thinkercad.com
 
 
 ## [Beetle Blocks](http://beetleblocks.com)
@@ -57,9 +44,7 @@ http://Thinkercad.com
 
 ## Otros
 
-123d Design
 
-?Tutoriales?
 
 
 ## Trucos
@@ -83,8 +68,6 @@ http://Thinkercad.com
 
 * [Tinkercad](http://www.mibqyyo.com/articulos/2014/09/15/aprendiendo-diseno-3d-i-tinkercad/#/vanilla/discussion/embed/?vanilla_discussion_id=0	)
 
-* Blender
+* [Blender](./Blender.md)
 
 * [netfabb](http://www.netfabb.com/engine_ultimaker.php)
-
-* OpenCad
