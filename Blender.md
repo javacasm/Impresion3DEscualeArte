@@ -177,10 +177,21 @@ Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las
 [Tutoriales](https://www.blender.org/support/tutorials/)
 
 [cgcookie](https://cgcookie.com/learn-blender/)
+
 [blenderguru](http://www.blenderguru.com/)
 
-El mejor Joaquín Herrera Goás, conocido en los mundos del diseño con
-programas libres como Joaclint Istgud
+[Guia para la versión 2.5](https://joaclintistgud.wordpress.com/2009/11/27/blender-guia-de-iniciacion-para-recien-llegados-adaptada-a-la-version-2-5/)
 
-https://joaclintistgud.wordpress.com
-https://joaclintistgud.wordpress.com/2009/11/27/blender-guia-de-iniciacion-para-recien-llegados-adaptada-a-la-version-2-5/
+### Videos:
+
+[Creando a partir de fotos una cabeza](https://www.youtube.com/watch?v=HODBe1adzUQ)
+
+[Diseñando una cabeza](https://www.youtube.com/watch?v=pQVfissJSe4)
+
+[Diseñando una camiseta](https://www.youtube.com/watch?v=Ih2EakutydA)
+
+[Diseñando ropa](https://www.youtube.com/results?search_query=blender+design+clothes)
+
+[Diseñando un zapato](https://www.youtube.com/watch?v=aV6AoxOkX8w)
+
+[Diseñando a Angelina Jolie](https://www.youtube.com/watch?v=Vu6jdSaSVyo)
