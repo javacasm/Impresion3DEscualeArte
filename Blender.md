@@ -176,6 +176,8 @@ Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las
 
 [Tutoriales](https://www.blender.org/support/tutorials/)
 
+[Introducción a blender (cgcookie)](https://cgcookie.com/flow/introduction-to-blender/)
+
 [cgcookie](https://cgcookie.com/learn-blender/)
 
 [blenderguru](http://www.blenderguru.com/)
