@@ -173,7 +173,7 @@ Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las
 
 [Chuletario de Blender](http://www.giudansky.com/design/51-blender-map)
 
-![Chuletario de Blender](http://www.giudansky.com/images/articoli/2016/11/blender-infographic-1280-SM.png)
+![Chuletario de Blender](./images/blender-infographic-1280-SM.png)
 
 [Tutorial](https://www.instructables.com/id/Beginners-Guide-to-Blender/)
 
